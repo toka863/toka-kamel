@@ -1,4 +1,3 @@
 this is the first line
-i am new heree 
-hello 
-
+i am toka 
+i love git
